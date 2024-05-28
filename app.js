@@ -112,3 +112,4 @@ async function iniciarServidor() {
 }
 
 iniciarServidor();
+//npm install express mongodb body-parser validator
